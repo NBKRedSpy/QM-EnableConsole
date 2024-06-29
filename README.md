@@ -4,6 +4,8 @@
 The game is actively changing so this mod may break.
 This is a temporary mod as the game will support Steam Workshop in a future update.
 
+This mod will be obsolete when the data modding is added to the game.
+
 
 # Info
 This mod enables the developer console in the game.
