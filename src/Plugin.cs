@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace QM_EnableConsole
 {
-    [BepInPlugin("bnk_redspy.QM_EnableConsole", "QM_EnableConsole", "1.0.0")]
+    [BepInPlugin("nbk_redspy.QM_EnableConsole", "QM_EnableConsole", "1.0.0")]
     public class Plugin : BaseUnityPlugin
     {
 
@@ -16,11 +16,9 @@ namespace QM_EnableConsole
 
         private void Awake()
         {
-            Logger.LogInfo("---------awake ran");
-
             Log = Logger;
 
-            Harmony harmony = new Harmony("test");
+            Harmony harmony = new Harmony("nbk_redspy.QM_EnableConsole");
             harmony.PatchAll();
 
         }
