@@ -1,5 +1,10 @@
 # Quasimorph Enable Debug Console
 
+
+## Update
+This mod is no longer needed as the game directly supports mods and has an official console mod.
+See this [post](https://github.com/NBKRedSpy/QM-EnableConsole/issues/1) for more information.
+
 ## Preface
 The game is actively changing so this mod may break.
 This is a temporary mod as the game will support Steam Workshop in a future update.
